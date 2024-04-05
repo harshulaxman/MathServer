@@ -132,10 +132,12 @@ def surfacearea(request):
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2024-04-05 141021.png>)
+![Screenshot 2024-04-05 141021](https://github.com/harshulaxman/MathServer/assets/145686689/2db8b314-4947-456a-88d1-7504f41d3069)
+
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-04-05 140717.png>)
+![Screenshot 2024-04-05 140717](https://github.com/harshulaxman/MathServer/assets/145686689/b7fa3f6c-49ef-4c21-acb8-257ee39ba0f7)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
